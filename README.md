@@ -1,9 +1,9 @@
 ### Nolan Prochnau
 ##### (he/him)
 
-I'm a Linux user and lover of open-source and tiling WMs.
+I'm a Linux user and lover of open source and tiling WMs.
 
-I contribute to projects I use on a frequent basis, like [neovim][nv],
+I occasionally contribute to projects I use on a frequent basis, like [neovim][nv],
 [polybar][pb], and [telescope][ts]. Too much of my time is spent on tweaking my
 [dotfiles][df] as well.
 
